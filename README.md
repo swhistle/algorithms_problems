@@ -1,1 +1,1 @@
-Problem Solving with Algorithms and Data Structures using Python
+Practice solving problems with Algorithms and Data Structures using Python
